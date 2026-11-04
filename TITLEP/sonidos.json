@@ -1,0 +1,27 @@
+{
+ "source": "TITLEP.DXR",
+ "sounds": [
+  {
+   "file": "s0016_prayLoop.wav",
+   "member": 16,
+   "name": "prayLoop",
+   "cast_id": 52,
+   "snd_id": 77,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 188928
+  },
+  {
+   "file": "s0014_PRL38.AIF_copy.wav",
+   "member": 14,
+   "name": "PRL38.AIF copy",
+   "cast_id": 65,
+   "snd_id": 67,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 88200
+  }
+ ]
+}

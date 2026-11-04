@@ -1,0 +1,16 @@
+{
+ "source": "TITLEH.DXR",
+ "sounds": [
+  {
+   "file": "s0023_PRL15.AIF_copy.wav",
+   "member": 23,
+   "name": "PRL15.AIF copy",
+   "cast_id": 106,
+   "snd_id": 108,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 88200
+  }
+ ]
+}

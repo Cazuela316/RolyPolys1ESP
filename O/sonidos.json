@@ -1,0 +1,269 @@
+{
+ "source": "O.DXR",
+ "sounds": [
+  {
+   "file": "s0150_.wav",
+   "member": 150,
+   "name": "\u201a\u00a8\u2022\u00a0\u201a\u00aa\u201a\u00ae\u201a\u00a4",
+   "cast_id": 7,
+   "snd_id": 8,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 44718
+  },
+  {
+   "file": "s0151_g.wav",
+   "member": 151,
+   "name": "\u201dg\u201a\u00cc\u2030\u00b9",
+   "cast_id": 16,
+   "snd_id": 40,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 363989
+  },
+  {
+   "file": "s0152_D_J.wav",
+   "member": 152,
+   "name": "\u2039D\u201cJ",
+   "cast_id": 261,
+   "snd_id": 263,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 99678
+  },
+  {
+   "file": "s0153_.wav",
+   "member": 153,
+   "name": "\u201a\u00ab\u201a\u00e7\u201a\u00e8\ufffd[\u201a\u00f1",
+   "cast_id": 284,
+   "snd_id": 285,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 17621
+  },
+  {
+   "file": "s0154_W_b.wav",
+   "member": 154,
+   "name": "\u0192W\u0192\u0192\u0192b\u201a\u00c6\u201a\u00c8",
+   "cast_id": 333,
+   "snd_id": 334,
+   "rate": 22254.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 13824
+  },
+  {
+   "file": "s0155_W_b_2.wav",
+   "member": 155,
+   "name": "\u0192W\u0192\u0192\u0192b\u201a\u00c6\u201a\u00c82",
+   "cast_id": 424,
+   "snd_id": 425,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 3072
+  },
+  {
+   "file": "s0156_o_V.wav",
+   "member": 156,
+   "name": "\u0192o\u0192V\u201a\u00c6\ufffd\u00d8\u201a\u00e9",
+   "cast_id": 431,
+   "snd_id": 432,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 1123
+  },
+  {
+   "file": "s0176_kanimiso_hade.lop.wav",
+   "member": 176,
+   "name": "kanimiso hade.lop",
+   "cast_id": 496,
+   "snd_id": 698,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 198650
+  },
+  {
+   "file": "s0157_.wav",
+   "member": 157,
+   "name": "\u201a\u00aa\ufffd[\u201a\u00f1",
+   "cast_id": 509,
+   "snd_id": 510,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 46665
+  },
+  {
+   "file": "s0158_.wav",
+   "member": 158,
+   "name": "\u201a\u00a9\u201a\u00b3\u201a\u00b1\u201a\u00bb",
+   "cast_id": 511,
+   "snd_id": 512,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 16314
+  },
+  {
+   "file": "s0160_b.wav",
+   "member": 160,
+   "name": "\u0192`\u0192b",
+   "cast_id": 520,
+   "snd_id": 521,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 928
+  },
+  {
+   "file": "s0179_cyou_jigule.wav",
+   "member": 179,
+   "name": "cyou jigule",
+   "cast_id": 537,
+   "snd_id": 538,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 149504
+  },
+  {
+   "file": "s0181_171.wav",
+   "member": 181,
+   "name": "171",
+   "cast_id": 548,
+   "snd_id": 549,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 12672
+  },
+  {
+   "file": "s0182_169.wav",
+   "member": 182,
+   "name": "169",
+   "cast_id": 550,
+   "snd_id": 551,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 222016
+  },
+  {
+   "file": "s0183_274.wav",
+   "member": 183,
+   "name": "274",
+   "cast_id": 552,
+   "snd_id": 553,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 19072
+  },
+  {
+   "file": "s0184_170.wav",
+   "member": 184,
+   "name": "170",
+   "cast_id": 554,
+   "snd_id": 555,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 48576
+  },
+  {
+   "file": "s0185_171.wav",
+   "member": 185,
+   "name": "171",
+   "cast_id": 556,
+   "snd_id": 557,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 12672
+  },
+  {
+   "file": "s0186_172.wav",
+   "member": 186,
+   "name": "172",
+   "cast_id": 562,
+   "snd_id": 563,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 63296
+  },
+  {
+   "file": "s0189_175.wav",
+   "member": 189,
+   "name": "175",
+   "cast_id": 566,
+   "snd_id": 567,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 6464
+  },
+  {
+   "file": "s0190_234.wav",
+   "member": 190,
+   "name": "234",
+   "cast_id": 576,
+   "snd_id": 577,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 22784
+  },
+  {
+   "file": "s0191_259.wav",
+   "member": 191,
+   "name": "259",
+   "cast_id": 586,
+   "snd_id": 587,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 34304
+  },
+  {
+   "file": "s0178_173.wav",
+   "member": 178,
+   "name": "173",
+   "cast_id": 699,
+   "snd_id": 528,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 34668
+  },
+  {
+   "file": "s0173_kani_jimi.lop.wav",
+   "member": 173,
+   "name": "kani jimi.lop",
+   "cast_id": 705,
+   "snd_id": 485,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 199707
+  },
+  {
+   "file": "s0177_cyou_jingle_short.wav",
+   "member": 177,
+   "name": "cyou jingle short",
+   "cast_id": 712,
+   "snd_id": 526,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 53504
+  }
+ ]
+}

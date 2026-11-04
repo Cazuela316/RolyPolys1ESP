@@ -1,0 +1,16 @@
+{
+ "source": "TITLEO.DXR",
+ "sounds": [
+  {
+   "file": "s0028_PRL37.AIF_copy.wav",
+   "member": 28,
+   "name": "PRL37.AIF copy",
+   "cast_id": 112,
+   "snd_id": 113,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 88200
+  }
+ ]
+}

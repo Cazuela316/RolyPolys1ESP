@@ -1,0 +1,148 @@
+{
+ "source": "J.DXR",
+ "sounds": [
+  {
+   "file": "s0207_key.wav",
+   "member": 207,
+   "name": "key",
+   "cast_id": 376,
+   "snd_id": 558,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 2421
+  },
+  {
+   "file": "s0206_Computer.wav",
+   "member": 206,
+   "name": "Computer",
+   "cast_id": 413,
+   "snd_id": 768,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 14564
+  },
+  {
+   "file": "s0208_273.wav",
+   "member": 208,
+   "name": "273",
+   "cast_id": 569,
+   "snd_id": 570,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 113664
+  },
+  {
+   "file": "s0209_275.wav",
+   "member": 209,
+   "name": "275",
+   "cast_id": 571,
+   "snd_id": 572,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 39040
+  },
+  {
+   "file": "s0211_188.wav",
+   "member": 211,
+   "name": "188",
+   "cast_id": 575,
+   "snd_id": 576,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 25664
+  },
+  {
+   "file": "s0212_276.wav",
+   "member": 212,
+   "name": "276",
+   "cast_id": 577,
+   "snd_id": 578,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 41280
+  },
+  {
+   "file": "s0214_279.wav",
+   "member": 214,
+   "name": "279",
+   "cast_id": 581,
+   "snd_id": 582,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 176868
+  },
+  {
+   "file": "s0215_152.wav",
+   "member": 215,
+   "name": "152",
+   "cast_id": 583,
+   "snd_id": 584,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 63744
+  },
+  {
+   "file": "s0210_151.wav",
+   "member": 210,
+   "name": "151",
+   "cast_id": 593,
+   "snd_id": 594,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 5680
+  },
+  {
+   "file": "s0213_231.wav",
+   "member": 213,
+   "name": "231",
+   "cast_id": 595,
+   "snd_id": 596,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 468992
+  },
+  {
+   "file": "s0217_279.wav",
+   "member": 217,
+   "name": "279",
+   "cast_id": 600,
+   "snd_id": 601,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 178692
+  },
+  {
+   "file": "s0218_akiko.wav",
+   "member": 218,
+   "name": "akiko",
+   "cast_id": 608,
+   "snd_id": 613,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 211584
+  },
+  {
+   "file": "s0223_bgm.wav",
+   "member": 223,
+   "name": "bgm",
+   "cast_id": 814,
+   "snd_id": 336,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 105472
+  }
+ ]
+}

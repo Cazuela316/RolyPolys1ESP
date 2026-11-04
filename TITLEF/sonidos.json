@@ -1,0 +1,16 @@
+{
+ "source": "TITLEF.DXR",
+ "sounds": [
+  {
+   "file": "s0103_PRL11.AIF_copy.wav",
+   "member": 103,
+   "name": "PRL11.AIF copy",
+   "cast_id": 333,
+   "snd_id": 334,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 88200
+  }
+ ]
+}

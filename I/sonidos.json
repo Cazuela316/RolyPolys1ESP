@@ -1,0 +1,203 @@
+{
+ "source": "I.DXR",
+ "sounds": [
+  {
+   "file": "s0220_057.wav",
+   "member": 220,
+   "name": "057",
+   "cast_id": 547,
+   "snd_id": 548,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 40512
+  },
+  {
+   "file": "s0221_Computer.wav",
+   "member": 221,
+   "name": "Computer",
+   "cast_id": 552,
+   "snd_id": 553,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 14564
+  },
+  {
+   "file": "s0222_key.wav",
+   "member": 222,
+   "name": "key",
+   "cast_id": 554,
+   "snd_id": 555,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 2421
+  },
+  {
+   "file": "s0223_151.wav",
+   "member": 223,
+   "name": "151",
+   "cast_id": 565,
+   "snd_id": 571,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 41792
+  },
+  {
+   "file": "s0224_152.wav",
+   "member": 224,
+   "name": "152",
+   "cast_id": 573,
+   "snd_id": 575,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 63744
+  },
+  {
+   "file": "s0225_153.wav",
+   "member": 225,
+   "name": "153",
+   "cast_id": 576,
+   "snd_id": 577,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 171392
+  },
+  {
+   "file": "s0226_monitor.wav",
+   "member": 226,
+   "name": "monitor",
+   "cast_id": 578,
+   "snd_id": 584,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 174505
+  },
+  {
+   "file": "s0227_167.wav",
+   "member": 227,
+   "name": "167",
+   "cast_id": 590,
+   "snd_id": 782,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 71104
+  },
+  {
+   "file": "s0228_162.wav",
+   "member": 228,
+   "name": "162",
+   "cast_id": 593,
+   "snd_id": 594,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 73984
+  },
+  {
+   "file": "s0229_154.wav",
+   "member": 229,
+   "name": "154",
+   "cast_id": 609,
+   "snd_id": 610,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 90048
+  },
+  {
+   "file": "s0230_155.wav",
+   "member": 230,
+   "name": "155",
+   "cast_id": 611,
+   "snd_id": 612,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 158080
+  },
+  {
+   "file": "s0232_banana.wav",
+   "member": 232,
+   "name": "banana",
+   "cast_id": 618,
+   "snd_id": 619,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 3007
+  },
+  {
+   "file": "s0233_grasses.wav",
+   "member": 233,
+   "name": "grasses",
+   "cast_id": 620,
+   "snd_id": 621,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 13316
+  },
+  {
+   "file": "s0219_165.wav",
+   "member": 219,
+   "name": "165",
+   "cast_id": 668,
+   "snd_id": 798,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 83712
+  },
+  {
+   "file": "s0218_166.wav",
+   "member": 218,
+   "name": "166",
+   "cast_id": 737,
+   "snd_id": 796,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 15488
+  },
+  {
+   "file": "s0216_banaten_sarukyoku_.lop.wav",
+   "member": 216,
+   "name": "banaten(sarukyoku).lop",
+   "cast_id": 788,
+   "snd_id": 790,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 151552
+  },
+  {
+   "file": "s0217_164.wav",
+   "member": 217,
+   "name": "164",
+   "cast_id": 794,
+   "snd_id": 498,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 21952
+  },
+  {
+   "file": "s0231_168.wav",
+   "member": 231,
+   "name": "168",
+   "cast_id": 801,
+   "snd_id": 821,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 459198
+  }
+ ]
+}

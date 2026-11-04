@@ -1,0 +1,192 @@
+{
+ "source": "G.DXR",
+ "sounds": [
+  {
+   "file": "s0174_214.wav",
+   "member": 174,
+   "name": "214",
+   "cast_id": 376,
+   "snd_id": 585,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 72346
+  },
+  {
+   "file": "s0161_pon_jazz.lop.wav",
+   "member": 161,
+   "name": "pon jazz.lop",
+   "cast_id": 405,
+   "snd_id": 557,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 176990
+  },
+  {
+   "file": "s0178_rest.wav",
+   "member": 178,
+   "name": "rest",
+   "cast_id": 442,
+   "snd_id": 485,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 80896
+  },
+  {
+   "file": "s0179_069.wav",
+   "member": 179,
+   "name": "069",
+   "cast_id": 565,
+   "snd_id": 617,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 27776
+  },
+  {
+   "file": "s0163_yoshi.wav",
+   "member": 163,
+   "name": "yoshi",
+   "cast_id": 570,
+   "snd_id": 559,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 4536
+  },
+  {
+   "file": "s0164_014.wav",
+   "member": 164,
+   "name": "014",
+   "cast_id": 571,
+   "snd_id": 572,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 187456
+  },
+  {
+   "file": "s0169_219.wav",
+   "member": 169,
+   "name": "219",
+   "cast_id": 576,
+   "snd_id": 534,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 15680
+  },
+  {
+   "file": "s0165_222.wav",
+   "member": 165,
+   "name": "222",
+   "cast_id": 578,
+   "snd_id": 569,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 70016
+  },
+  {
+   "file": "s0167_217.wav",
+   "member": 167,
+   "name": "217",
+   "cast_id": 581,
+   "snd_id": 439,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 144960
+  },
+  {
+   "file": "s0170_221.wav",
+   "member": 170,
+   "name": "221",
+   "cast_id": 584,
+   "snd_id": 615,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 22848
+  },
+  {
+   "file": "s0168_218.wav",
+   "member": 168,
+   "name": "218",
+   "cast_id": 586,
+   "snd_id": 587,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 10752
+  },
+  {
+   "file": "s0171_cyou_jigule.wav",
+   "member": 171,
+   "name": "cyou jigule",
+   "cast_id": 599,
+   "snd_id": 208,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 149504
+  },
+  {
+   "file": "s0172_.wav",
+   "member": 172,
+   "name": "\u201a\u00ab\u201a\u00e7\u201a\u00e8\ufffd[\u201a\u00f1",
+   "cast_id": 600,
+   "snd_id": 603,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 17621
+  },
+  {
+   "file": "s0175_punch.wav",
+   "member": 175,
+   "name": "punch",
+   "cast_id": 605,
+   "snd_id": 555,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 7877
+  },
+  {
+   "file": "s0176_pon_kurokoge.lop.wav",
+   "member": 176,
+   "name": "pon kurokoge.lop",
+   "cast_id": 607,
+   "snd_id": 606,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 235877
+  },
+  {
+   "file": "s0177_traffic.wav",
+   "member": 177,
+   "name": "traffic",
+   "cast_id": 612,
+   "snd_id": 613,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 99840
+  },
+  {
+   "file": "s0166_216.wav",
+   "member": 166,
+   "name": "216",
+   "cast_id": 633,
+   "snd_id": 583,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 144128
+  }
+ ]
+}

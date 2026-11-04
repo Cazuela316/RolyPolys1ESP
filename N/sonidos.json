@@ -1,0 +1,225 @@
+{
+ "source": "N.DXR",
+ "sounds": [
+  {
+   "file": "s0204_Punch2.wav",
+   "member": 204,
+   "name": "Punch2",
+   "cast_id": 83,
+   "snd_id": 865,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 12428
+  },
+  {
+   "file": "s0200_CargoApr.wav",
+   "member": 200,
+   "name": "CargoApr",
+   "cast_id": 143,
+   "snd_id": 263,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 27076
+  },
+  {
+   "file": "s0196_LaderSet.wav",
+   "member": 196,
+   "name": "LaderSet",
+   "cast_id": 150,
+   "snd_id": 733,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 3186
+  },
+  {
+   "file": "s0201_Jump.wav",
+   "member": 201,
+   "name": "Jump",
+   "cast_id": 155,
+   "snd_id": 268,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 4796
+  },
+  {
+   "file": "s0205_down.wav",
+   "member": 205,
+   "name": "down",
+   "cast_id": 180,
+   "snd_id": 7,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 6055
+  },
+  {
+   "file": "s0202_LadderFall.wav",
+   "member": 202,
+   "name": "LadderFall",
+   "cast_id": 270,
+   "snd_id": 35,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 33353
+  },
+  {
+   "file": "s0199_ele.wav",
+   "member": 199,
+   "name": "ele",
+   "cast_id": 274,
+   "snd_id": 840,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 17501
+  },
+  {
+   "file": "s0203_Jaws.wav",
+   "member": 203,
+   "name": "Jaws",
+   "cast_id": 305,
+   "snd_id": 863,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 32402
+  },
+  {
+   "file": "s0207_run.wav",
+   "member": 207,
+   "name": "run",
+   "cast_id": 314,
+   "snd_id": 835,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 5886
+  },
+  {
+   "file": "s0198_kagoOpen.wav",
+   "member": 198,
+   "name": "kagoOpen",
+   "cast_id": 330,
+   "snd_id": 791,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 87363
+  },
+  {
+   "file": "s0182_yoshi.wav",
+   "member": 182,
+   "name": "yoshi",
+   "cast_id": 357,
+   "snd_id": 743,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 4536
+  },
+  {
+   "file": "s0193_banana.wav",
+   "member": 193,
+   "name": "banana",
+   "cast_id": 460,
+   "snd_id": 237,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 3007
+  },
+  {
+   "file": "s0189_Punch.wav",
+   "member": 189,
+   "name": "Punch",
+   "cast_id": 471,
+   "snd_id": 651,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 7804
+  },
+  {
+   "file": "s0195_forest.wav",
+   "member": 195,
+   "name": "forest",
+   "cast_id": 472,
+   "snd_id": 562,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 137981
+  },
+  {
+   "file": "s0197_Lazer.wav",
+   "member": 197,
+   "name": "Lazer",
+   "cast_id": 516,
+   "snd_id": 895,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 4636
+  },
+  {
+   "file": "s0192_monitor.wav",
+   "member": 192,
+   "name": "monitor",
+   "cast_id": 585,
+   "snd_id": 54,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 174505
+  },
+  {
+   "file": "s0191_key.wav",
+   "member": 191,
+   "name": "key",
+   "cast_id": 641,
+   "snd_id": 658,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 2421
+  },
+  {
+   "file": "s0190_Computer.wav",
+   "member": 190,
+   "name": "Computer",
+   "cast_id": 672,
+   "snd_id": 238,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 14564
+  },
+  {
+   "file": "s0194_grasses.wav",
+   "member": 194,
+   "name": "grasses",
+   "cast_id": 680,
+   "snd_id": 692,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 13316
+  },
+  {
+   "file": "s0206_Fall.wav",
+   "member": 206,
+   "name": "Fall",
+   "cast_id": 723,
+   "snd_id": 675,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 80653
+  }
+ ]
+}

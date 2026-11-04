@@ -1,0 +1,126 @@
+{
+ "source": "TITLEFOX.DXR",
+ "sounds": [
+  {
+   "file": "s0140_CYOU.wav",
+   "member": 140,
+   "name": "CYOU",
+   "cast_id": 78,
+   "snd_id": 84,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 26240
+  },
+  {
+   "file": "s0120_bgm.wav",
+   "member": 120,
+   "name": "bgm",
+   "cast_id": 740,
+   "snd_id": 982,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 183296
+  },
+  {
+   "file": "s0119_cho-2.wav",
+   "member": 119,
+   "name": "cho-2",
+   "cast_id": 979,
+   "snd_id": 739,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 46080
+  },
+  {
+   "file": "s0121_cho-3.wav",
+   "member": 121,
+   "name": "cho-3",
+   "cast_id": 985,
+   "snd_id": 988,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 91776
+  },
+  {
+   "file": "s0122_cho-4.wav",
+   "member": 122,
+   "name": "cho-4",
+   "cast_id": 1004,
+   "snd_id": 994,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 183808
+  },
+  {
+   "file": "s0118_cho-1.wav",
+   "member": 118,
+   "name": "cho-1",
+   "cast_id": 1014,
+   "snd_id": 976,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 46592
+  },
+  {
+   "file": "s0125_untitled-2.wav",
+   "member": 125,
+   "name": "untitled-2",
+   "cast_id": 1125,
+   "snd_id": 1126,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 56064
+  },
+  {
+   "file": "s0126_untitled-3.wav",
+   "member": 126,
+   "name": "untitled-3",
+   "cast_id": 1127,
+   "snd_id": 1128,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 11520
+  },
+  {
+   "file": "s0127_untitled-4.wav",
+   "member": 127,
+   "name": "untitled-4",
+   "cast_id": 1129,
+   "snd_id": 1130,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 17408
+  },
+  {
+   "file": "s0128_untitled-5.wav",
+   "member": 128,
+   "name": "untitled-5",
+   "cast_id": 1131,
+   "snd_id": 1132,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 19456
+  },
+  {
+   "file": "s0139_untitled-1.wav",
+   "member": 139,
+   "name": "untitled-1",
+   "cast_id": 1187,
+   "snd_id": 1139,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 6336
+  }
+ ]
+}

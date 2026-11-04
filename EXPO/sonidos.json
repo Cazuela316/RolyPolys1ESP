@@ -1,0 +1,38 @@
+{
+ "source": "EXPO.DXR",
+ "sounds": [
+  {
+   "file": "s0053_O1.aif.wav",
+   "member": 53,
+   "name": "O1.aif",
+   "cast_id": 61,
+   "snd_id": 84,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 193152
+  },
+  {
+   "file": "s0059_o-kotoE.wav",
+   "member": 59,
+   "name": "o-kotoE",
+   "cast_id": 128,
+   "snd_id": 129,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 51712
+  },
+  {
+   "file": "s0060_o-kotoJ.wav",
+   "member": 60,
+   "name": "o-kotoJ",
+   "cast_id": 130,
+   "snd_id": 138,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 21375
+  }
+ ]
+}

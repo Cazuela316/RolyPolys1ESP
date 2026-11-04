@@ -1,0 +1,148 @@
+{
+ "source": "SHOOTING.DXR",
+ "sounds": [
+  {
+   "file": "s0115_.wav",
+   "member": 115,
+   "name": "\u201a\u00d6\u201a\u00bd\u201a\u00ad\u201a\u00bb",
+   "cast_id": 313,
+   "snd_id": 328,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 57600
+  },
+  {
+   "file": "s0111_S2.wav",
+   "member": 111,
+   "name": "S2",
+   "cast_id": 319,
+   "snd_id": 310,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 41728
+  },
+  {
+   "file": "s0112_.wav",
+   "member": 112,
+   "name": "\u201a\u00d6\u201a\u00bd\u201a\u00ad\u201a\u00bb",
+   "cast_id": 326,
+   "snd_id": 320,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 57600
+  },
+  {
+   "file": "s0160_077.wav",
+   "member": 160,
+   "name": "077",
+   "cast_id": 401,
+   "snd_id": 567,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 113216
+  },
+  {
+   "file": "s0164_gun.wav",
+   "member": 164,
+   "name": "gun",
+   "cast_id": 402,
+   "snd_id": 403,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 76789
+  },
+  {
+   "file": "s0161_078.wav",
+   "member": 161,
+   "name": "078",
+   "cast_id": 404,
+   "snd_id": 400,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 113216
+  },
+  {
+   "file": "s0166_cyou_jigule.wav",
+   "member": 166,
+   "name": "cyou jigule",
+   "cast_id": 435,
+   "snd_id": 451,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 149504
+  },
+  {
+   "file": "s0162_down.wav",
+   "member": 162,
+   "name": "down",
+   "cast_id": 450,
+   "snd_id": 530,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 25472
+  },
+  {
+   "file": "s0167_yoshi.wav",
+   "member": 167,
+   "name": "yoshi",
+   "cast_id": 463,
+   "snd_id": 464,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 4536
+  },
+  {
+   "file": "s0110_S1.wav",
+   "member": 110,
+   "name": "S1",
+   "cast_id": 496,
+   "snd_id": 477,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 54261
+  },
+  {
+   "file": "s0113_.wav",
+   "member": 113,
+   "name": "\u201a\u00d1\u201a\u00e6\u201a\u00d1\u201a\u00e6",
+   "cast_id": 505,
+   "snd_id": 8,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 48128
+  },
+  {
+   "file": "s0159_cho_Shooting.wav",
+   "member": 159,
+   "name": "cho Shooting",
+   "cast_id": 514,
+   "snd_id": 479,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 100685
+  },
+  {
+   "file": "s0114_S_N.wav",
+   "member": 114,
+   "name": "\u2022S\u2013\u0153\u201dN\u201a\u00cd\u201a\u00e2\u201a\u00a2",
+   "cast_id": 572,
+   "snd_id": 329,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 78592
+  }
+ ]
+}

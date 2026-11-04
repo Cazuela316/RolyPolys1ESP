@@ -1,0 +1,137 @@
+{
+ "source": "B.DXR",
+ "sounds": [
+  {
+   "file": "s0069_pon_arukebaNew.lop.wav",
+   "member": 69,
+   "name": "pon arukebaNew.lop",
+   "cast_id": 91,
+   "snd_id": 137,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 192512
+  },
+  {
+   "file": "s0060_001.wav",
+   "member": 60,
+   "name": "001",
+   "cast_id": 186,
+   "snd_id": 187,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 192960
+  },
+  {
+   "file": "s0061_007.wav",
+   "member": 61,
+   "name": "007",
+   "cast_id": 188,
+   "snd_id": 189,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 363840
+  },
+  {
+   "file": "s0062_002.wav",
+   "member": 62,
+   "name": "002",
+   "cast_id": 190,
+   "snd_id": 191,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 57280
+  },
+  {
+   "file": "s0063_004.wav",
+   "member": 63,
+   "name": "004",
+   "cast_id": 192,
+   "snd_id": 194,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 36288
+  },
+  {
+   "file": "s0064_003.wav",
+   "member": 64,
+   "name": "003",
+   "cast_id": 195,
+   "snd_id": 196,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 34560
+  },
+  {
+   "file": "s0065_005.wav",
+   "member": 65,
+   "name": "005",
+   "cast_id": 197,
+   "snd_id": 198,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 77568
+  },
+  {
+   "file": "s0067_yoshi.wav",
+   "member": 67,
+   "name": "yoshi",
+   "cast_id": 206,
+   "snd_id": 207,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 4536
+  },
+  {
+   "file": "s0070_cyou_jigule.wav",
+   "member": 70,
+   "name": "cyou jigule",
+   "cast_id": 215,
+   "snd_id": 216,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 149504
+  },
+  {
+   "file": "s0074_pon_kurokoge.lop.wav",
+   "member": 74,
+   "name": "pon kurokoge.lop",
+   "cast_id": 226,
+   "snd_id": 228,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 235877
+  },
+  {
+   "file": "s0059_006.wav",
+   "member": 59,
+   "name": "006",
+   "cast_id": 232,
+   "snd_id": 185,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 35776
+  },
+  {
+   "file": "s0075_pon_arukebaNew.lop.wav",
+   "member": 75,
+   "name": "pon arukebaNew.lop",
+   "cast_id": 233,
+   "snd_id": 144,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 192512
+  }
+ ]
+}

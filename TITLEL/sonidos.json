@@ -1,0 +1,38 @@
+{
+ "source": "TITLEL.DXR",
+ "sounds": [
+  {
+   "file": "s0021_Bell.wav",
+   "member": 21,
+   "name": "Bell",
+   "cast_id": 79,
+   "snd_id": 87,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 7104
+  },
+  {
+   "file": "s0032_PRL29.AIF_copy.wav",
+   "member": 32,
+   "name": "PRL29.AIF copy",
+   "cast_id": 82,
+   "snd_id": 16,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 88200
+  },
+  {
+   "file": "s0022_typing.wav",
+   "member": 22,
+   "name": "typing",
+   "cast_id": 100,
+   "snd_id": 101,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 4720
+  }
+ ]
+}

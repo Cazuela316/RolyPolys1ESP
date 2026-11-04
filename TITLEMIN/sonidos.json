@@ -1,0 +1,126 @@
+{
+ "source": "TITLEMIN.DXR",
+ "sounds": [
+  {
+   "file": "s0077_mino-2.wav",
+   "member": 77,
+   "name": "mino-2",
+   "cast_id": 18,
+   "snd_id": 177,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 160768
+  },
+  {
+   "file": "s0091_Untitled-3.wav",
+   "member": 91,
+   "name": "Untitled-3",
+   "cast_id": 24,
+   "snd_id": 94,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 11456
+  },
+  {
+   "file": "s0101_DEL_MONTAS.wav",
+   "member": 101,
+   "name": "DEL MONTAS",
+   "cast_id": 55,
+   "snd_id": 58,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 32000
+  },
+  {
+   "file": "s0075_BGM.wav",
+   "member": 75,
+   "name": "BGM",
+   "cast_id": 125,
+   "snd_id": 289,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 81408
+  },
+  {
+   "file": "s0078_mino-3.wav",
+   "member": 78,
+   "name": "mino-3",
+   "cast_id": 162,
+   "snd_id": 166,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 81920
+  },
+  {
+   "file": "s0090_Untitled-2.wav",
+   "member": 90,
+   "name": "Untitled-2",
+   "cast_id": 202,
+   "snd_id": 144,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 4704
+  },
+  {
+   "file": "s0092_Untitled-4.wav",
+   "member": 92,
+   "name": "Untitled-4",
+   "cast_id": 309,
+   "snd_id": 441,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 15168
+  },
+  {
+   "file": "s0076_mino-1.wav",
+   "member": 76,
+   "name": "mino-1",
+   "cast_id": 406,
+   "snd_id": 79,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 49920
+  },
+  {
+   "file": "s0079_mino-4.wav",
+   "member": 79,
+   "name": "mino-4",
+   "cast_id": 445,
+   "snd_id": 165,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 37120
+  },
+  {
+   "file": "s0089_Untitled-1.wav",
+   "member": 89,
+   "name": "Untitled-1",
+   "cast_id": 483,
+   "snd_id": 568,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 23936
+  },
+  {
+   "file": "s0093_Untitled-5.wav",
+   "member": 93,
+   "name": "Untitled-5",
+   "cast_id": 546,
+   "snd_id": 134,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 11840
+  }
+ ]
+}

@@ -1,0 +1,203 @@
+{
+ "source": "A.DXR",
+ "sounds": [
+  {
+   "file": "s0302_banana.wav",
+   "member": 302,
+   "name": "banana",
+   "cast_id": 502,
+   "snd_id": 757,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 3007
+  },
+  {
+   "file": "s0294_064.wav",
+   "member": 294,
+   "name": "064",
+   "cast_id": 583,
+   "snd_id": 1082,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 28800
+  },
+  {
+   "file": "s0289_shootingShop.wav",
+   "member": 289,
+   "name": "shootingShop",
+   "cast_id": 657,
+   "snd_id": 1061,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 236644
+  },
+  {
+   "file": "s0295_065.wav",
+   "member": 295,
+   "name": "065",
+   "cast_id": 689,
+   "snd_id": 713,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 90112
+  },
+  {
+   "file": "s0300_070.wav",
+   "member": 300,
+   "name": "070",
+   "cast_id": 784,
+   "snd_id": 1063,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 7680
+  },
+  {
+   "file": "s0297_067.wav",
+   "member": 297,
+   "name": "067",
+   "cast_id": 852,
+   "snd_id": 712,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 48320
+  },
+  {
+   "file": "s0287_076.wav",
+   "member": 287,
+   "name": "076",
+   "cast_id": 945,
+   "snd_id": 1062,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 88384
+  },
+  {
+   "file": "s0290_005.wav",
+   "member": 290,
+   "name": "005",
+   "cast_id": 968,
+   "snd_id": 1070,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 77568
+  },
+  {
+   "file": "s0291_061.wav",
+   "member": 291,
+   "name": "061",
+   "cast_id": 969,
+   "snd_id": 663,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 43584
+  },
+  {
+   "file": "s0286_075.wav",
+   "member": 286,
+   "name": "075",
+   "cast_id": 987,
+   "snd_id": 1018,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 89792
+  },
+  {
+   "file": "s0288_yoshi.wav",
+   "member": 288,
+   "name": "yoshi",
+   "cast_id": 1004,
+   "snd_id": 1050,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 4536
+  },
+  {
+   "file": "s0292_062.wav",
+   "member": 292,
+   "name": "062",
+   "cast_id": 1042,
+   "snd_id": 1066,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 37056
+  },
+  {
+   "file": "s0301_071.wav",
+   "member": 301,
+   "name": "071",
+   "cast_id": 1073,
+   "snd_id": 410,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 6720
+  },
+  {
+   "file": "s0293_063.wav",
+   "member": 293,
+   "name": "063",
+   "cast_id": 1074,
+   "snd_id": 706,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 58368
+  },
+  {
+   "file": "s0296_066.wav",
+   "member": 296,
+   "name": "066",
+   "cast_id": 1076,
+   "snd_id": 550,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 53376
+  },
+  {
+   "file": "s0303_grasses.wav",
+   "member": 303,
+   "name": "grasses",
+   "cast_id": 1084,
+   "snd_id": 879,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 13316
+  },
+  {
+   "file": "s0307_ponVoice.wav",
+   "member": 307,
+   "name": "ponVoice",
+   "cast_id": 1150,
+   "snd_id": 921,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 311296
+  },
+  {
+   "file": "s0285_pon_matsuri.lop.wav",
+   "member": 285,
+   "name": "pon matsuri.lop",
+   "cast_id": 1197,
+   "snd_id": 642,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 175914
+  }
+ ]
+}

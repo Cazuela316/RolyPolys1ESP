@@ -1,0 +1,126 @@
+{
+ "source": "TITLEBU.DXR",
+ "sounds": [
+  {
+   "file": "s0103_JJ_BOO.wav",
+   "member": 103,
+   "name": "JJ BOO",
+   "cast_id": 62,
+   "snd_id": 66,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 34624
+  },
+  {
+   "file": "s0076_boo.wav",
+   "member": 76,
+   "name": "boo",
+   "cast_id": 135,
+   "snd_id": 562,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 34944
+  },
+  {
+   "file": "s0086_a-cho2.wav",
+   "member": 86,
+   "name": "a-cho2",
+   "cast_id": 408,
+   "snd_id": 870,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 10000
+  },
+  {
+   "file": "s0077_bgm-1.wav",
+   "member": 77,
+   "name": "bgm-1",
+   "cast_id": 453,
+   "snd_id": 568,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 141824
+  },
+  {
+   "file": "s0088_a-cho1.wav",
+   "member": 88,
+   "name": "a-cho1",
+   "cast_id": 566,
+   "snd_id": 607,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 21376
+  },
+  {
+   "file": "s0089_a-cho5.wav",
+   "member": 89,
+   "name": "a-cho5",
+   "cast_id": 579,
+   "snd_id": 564,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 15680
+  },
+  {
+   "file": "s0085_a-cho3.wav",
+   "member": 85,
+   "name": "a-cho3",
+   "cast_id": 621,
+   "snd_id": 344,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 18384
+  },
+  {
+   "file": "s0078_boo-2.wav",
+   "member": 78,
+   "name": "boo-2",
+   "cast_id": 624,
+   "snd_id": 609,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 34880
+  },
+  {
+   "file": "s0087_a-cho4.wav",
+   "member": 87,
+   "name": "a-cho4",
+   "cast_id": 633,
+   "snd_id": 372,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 20096
+  },
+  {
+   "file": "s0090_a-cho6.wav",
+   "member": 90,
+   "name": "a-cho6",
+   "cast_id": 690,
+   "snd_id": 779,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 6272
+  },
+  {
+   "file": "s0079_boo-3.wav",
+   "member": 79,
+   "name": "boo-3",
+   "cast_id": 733,
+   "snd_id": 718,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 70592
+  }
+ ]
+}

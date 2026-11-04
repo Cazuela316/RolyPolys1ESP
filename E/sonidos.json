@@ -1,0 +1,291 @@
+{
+ "source": "E.DXR",
+ "sounds": [
+  {
+   "file": "s0068_2-2.wav",
+   "member": 68,
+   "name": "2-2",
+   "cast_id": 31,
+   "snd_id": 137,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 20992
+  },
+  {
+   "file": "s0061_120.wav",
+   "member": 61,
+   "name": "120",
+   "cast_id": 40,
+   "snd_id": 176,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 26304
+  },
+  {
+   "file": "s0053_112.wav",
+   "member": 53,
+   "name": "112",
+   "cast_id": 82,
+   "snd_id": 222,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 36416
+  },
+  {
+   "file": "s0042_jeogeOkiraku.wav",
+   "member": 42,
+   "name": "jeogeOkiraku",
+   "cast_id": 99,
+   "snd_id": 100,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 423936
+  },
+  {
+   "file": "s0070_2043.wav",
+   "member": 70,
+   "name": "2043",
+   "cast_id": 131,
+   "snd_id": 216,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 64000
+  },
+  {
+   "file": "s0046_107.wav",
+   "member": 46,
+   "name": "107",
+   "cast_id": 140,
+   "snd_id": 212,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 25600
+  },
+  {
+   "file": "s0058_117.wav",
+   "member": 58,
+   "name": "117",
+   "cast_id": 149,
+   "snd_id": 171,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 22016
+  },
+  {
+   "file": "s0047_108.wav",
+   "member": 47,
+   "name": "108",
+   "cast_id": 169,
+   "snd_id": 213,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 27904
+  },
+  {
+   "file": "s0062_121.wav",
+   "member": 62,
+   "name": "121",
+   "cast_id": 172,
+   "snd_id": 144,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 79360
+  },
+  {
+   "file": "s0063_122.wav",
+   "member": 63,
+   "name": "122",
+   "cast_id": 175,
+   "snd_id": 230,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 49536
+  },
+  {
+   "file": "s0060_119.wav",
+   "member": 60,
+   "name": "119",
+   "cast_id": 188,
+   "snd_id": 201,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 26048
+  },
+  {
+   "file": "s0054_113.wav",
+   "member": 54,
+   "name": "113",
+   "cast_id": 194,
+   "snd_id": 225,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 48960
+  },
+  {
+   "file": "s0055_114.wav",
+   "member": 55,
+   "name": "114",
+   "cast_id": 195,
+   "snd_id": 227,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 61248
+  },
+  {
+   "file": "s0059_118.wav",
+   "member": 59,
+   "name": "118",
+   "cast_id": 197,
+   "snd_id": 228,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 26560
+  },
+  {
+   "file": "s0045_113.wav",
+   "member": 45,
+   "name": "113",
+   "cast_id": 198,
+   "snd_id": 207,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 48960
+  },
+  {
+   "file": "s0064_123.wav",
+   "member": 64,
+   "name": "123",
+   "cast_id": 202,
+   "snd_id": 106,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 31808
+  },
+  {
+   "file": "s0067_127.wav",
+   "member": 67,
+   "name": "127",
+   "cast_id": 203,
+   "snd_id": 235,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 88832
+  },
+  {
+   "file": "s0048_109.wav",
+   "member": 48,
+   "name": "109",
+   "cast_id": 214,
+   "snd_id": 209,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 43264
+  },
+  {
+   "file": "s0051_110.wav",
+   "member": 51,
+   "name": "110",
+   "cast_id": 223,
+   "snd_id": 224,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 25984
+  },
+  {
+   "file": "s0052_111.wav",
+   "member": 52,
+   "name": "111",
+   "cast_id": 226,
+   "snd_id": 199,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 25152
+  },
+  {
+   "file": "s0065_124.wav",
+   "member": 65,
+   "name": "124",
+   "cast_id": 231,
+   "snd_id": 164,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 27456
+  },
+  {
+   "file": "s0066_125.wav",
+   "member": 66,
+   "name": "125",
+   "cast_id": 232,
+   "snd_id": 233,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 79360
+  },
+  {
+   "file": "s0050_299.wav",
+   "member": 50,
+   "name": "299",
+   "cast_id": 244,
+   "snd_id": 246,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 11264
+  },
+  {
+   "file": "s0069_146.wav",
+   "member": 69,
+   "name": "146",
+   "cast_id": 249,
+   "snd_id": 248,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 39104
+  },
+  {
+   "file": "s0056_115.wav",
+   "member": 56,
+   "name": "115",
+   "cast_id": 254,
+   "snd_id": 257,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 19712
+  },
+  {
+   "file": "s0057_116.wav",
+   "member": 57,
+   "name": "116",
+   "cast_id": 272,
+   "snd_id": 260,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 20480
+  }
+ ]
+}

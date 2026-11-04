@@ -1,0 +1,27 @@
+{
+ "source": "TITLED.DXR",
+ "sounds": [
+  {
+   "file": "s0029_PRWU05A.AIF.wav",
+   "member": 29,
+   "name": "PRWU05A.AIF",
+   "cast_id": 6,
+   "snd_id": 27,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 2943
+  },
+  {
+   "file": "s0025_PRL05.AIF_copy.wav",
+   "member": 25,
+   "name": "PRL05.AIF copy",
+   "cast_id": 30,
+   "snd_id": 64,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 88200
+  }
+ ]
+}

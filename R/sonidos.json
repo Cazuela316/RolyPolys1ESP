@@ -1,0 +1,93 @@
+{
+ "source": "R.DXR",
+ "sounds": [
+  {
+   "file": "s0053_banana.aif.wav",
+   "member": 53,
+   "name": "banana.aif",
+   "cast_id": 110,
+   "snd_id": 170,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 3035
+  },
+  {
+   "file": "s0054_glass.aif.wav",
+   "member": 54,
+   "name": "glass.aif",
+   "cast_id": 112,
+   "snd_id": 113,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 13440
+  },
+  {
+   "file": "s0106_punch.wav",
+   "member": 106,
+   "name": "punch",
+   "cast_id": 350,
+   "snd_id": 251,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 7877
+  },
+  {
+   "file": "s0109_grasses.wav",
+   "member": 109,
+   "name": "grasses",
+   "cast_id": 381,
+   "snd_id": 401,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 13316
+  },
+  {
+   "file": "s0107_delmon_TAKAMI.wav",
+   "member": 107,
+   "name": "delmon TAKAMI",
+   "cast_id": 398,
+   "snd_id": 362,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 353280
+  },
+  {
+   "file": "s0108_banaten_takami.lop.wav",
+   "member": 108,
+   "name": "banaten takami.lop",
+   "cast_id": 400,
+   "snd_id": 387,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 353280
+  },
+  {
+   "file": "s0110_banana.wav",
+   "member": 110,
+   "name": "banana",
+   "cast_id": 406,
+   "snd_id": 256,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 3007
+  },
+  {
+   "file": "s0111_TAKAMI_BACK_ONLY.wav",
+   "member": 111,
+   "name": "TAKAMI BACK ONLY",
+   "cast_id": 408,
+   "snd_id": 405,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 407601
+  }
+ ]
+}

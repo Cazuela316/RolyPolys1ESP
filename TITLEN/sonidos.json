@@ -1,0 +1,16 @@
+{
+ "source": "TITLEN.DXR",
+ "sounds": [
+  {
+   "file": "s0056_PRL36.AIF_copy.wav",
+   "member": 56,
+   "name": "PRL36.AIF copy",
+   "cast_id": 125,
+   "snd_id": 126,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 88200
+  }
+ ]
+}

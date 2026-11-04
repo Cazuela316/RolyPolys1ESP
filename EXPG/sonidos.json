@@ -1,0 +1,38 @@
+{
+ "source": "EXPG.DXR",
+ "sounds": [
+  {
+   "file": "s0017_Q1.aif.wav",
+   "member": 17,
+   "name": "Q1.aif",
+   "cast_id": 8,
+   "snd_id": 34,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 264608
+  },
+  {
+   "file": "s0021_q-kotoE.wav",
+   "member": 21,
+   "name": "q-kotoE",
+   "cast_id": 57,
+   "snd_id": 58,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 43424
+  },
+  {
+   "file": "s0022_q-kotoJ.wav",
+   "member": 22,
+   "name": "q-kotoJ",
+   "cast_id": 59,
+   "snd_id": 60,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 47269
+  }
+ ]
+}

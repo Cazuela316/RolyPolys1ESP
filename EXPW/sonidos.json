@@ -1,0 +1,60 @@
+{
+ "source": "EXPW.DXR",
+ "sounds": [
+  {
+   "file": "s0064_c1-kotoE.wav",
+   "member": 64,
+   "name": "c1-kotoE",
+   "cast_id": 169,
+   "snd_id": 170,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 61056
+  },
+  {
+   "file": "s0065_c1-kotoJ.wav",
+   "member": 65,
+   "name": "c1-kotoJ",
+   "cast_id": 171,
+   "snd_id": 177,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 64512
+  },
+  {
+   "file": "s0066_c2-kotoE.wav",
+   "member": 66,
+   "name": "c2-kotoE",
+   "cast_id": 178,
+   "snd_id": 184,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 45056
+  },
+  {
+   "file": "s0067_c2-kotoJ.wav",
+   "member": 67,
+   "name": "c2-kotoJ",
+   "cast_id": 194,
+   "snd_id": 198,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 30336
+  },
+  {
+   "file": "s0052_catch.aif.wav",
+   "member": 52,
+   "name": "catch.aif",
+   "cast_id": 213,
+   "snd_id": 214,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 176640
+  }
+ ]
+}

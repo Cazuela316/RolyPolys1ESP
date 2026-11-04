@@ -1,0 +1,313 @@
+{
+ "source": "F.DXR",
+ "sounds": [
+  {
+   "file": "s0163_scill.wav",
+   "member": 163,
+   "name": "scill",
+   "cast_id": 115,
+   "snd_id": 253,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 107807
+  },
+  {
+   "file": "s0156_morning.wav",
+   "member": 156,
+   "name": "morning",
+   "cast_id": 189,
+   "snd_id": 183,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 115968
+  },
+  {
+   "file": "s0155_Door.wav",
+   "member": 155,
+   "name": "Door",
+   "cast_id": 192,
+   "snd_id": 239,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 25962
+  },
+  {
+   "file": "s0157_punch.wav",
+   "member": 157,
+   "name": "punch",
+   "cast_id": 197,
+   "snd_id": 687,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 7877
+  },
+  {
+   "file": "s0158_bell.wav",
+   "member": 158,
+   "name": "bell",
+   "cast_id": 205,
+   "snd_id": 184,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 56832
+  },
+  {
+   "file": "s0162_swish.wav",
+   "member": 162,
+   "name": "swish",
+   "cast_id": 218,
+   "snd_id": 244,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 7489
+  },
+  {
+   "file": "s0159_boats.wav",
+   "member": 159,
+   "name": "boats",
+   "cast_id": 240,
+   "snd_id": 195,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 18688
+  },
+  {
+   "file": "s0165_traffic.wav",
+   "member": 165,
+   "name": "traffic",
+   "cast_id": 260,
+   "snd_id": 264,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 99840
+  },
+  {
+   "file": "s0166_bike.wav",
+   "member": 166,
+   "name": "bike",
+   "cast_id": 268,
+   "snd_id": 709,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 92356
+  },
+  {
+   "file": "s0167_night.wav",
+   "member": 167,
+   "name": "night",
+   "cast_id": 269,
+   "snd_id": 275,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 89325
+  },
+  {
+   "file": "s0168_gun.wav",
+   "member": 168,
+   "name": "gun",
+   "cast_id": 279,
+   "snd_id": 281,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 24617
+  },
+  {
+   "file": "s0169_door02.wav",
+   "member": 169,
+   "name": "door02",
+   "cast_id": 289,
+   "snd_id": 292,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 7168
+  },
+  {
+   "file": "s0170_rest.wav",
+   "member": 170,
+   "name": "rest",
+   "cast_id": 301,
+   "snd_id": 308,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 80896
+  },
+  {
+   "file": "s0171_lighter.wav",
+   "member": 171,
+   "name": "lighter",
+   "cast_id": 309,
+   "snd_id": 312,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 2415
+  },
+  {
+   "file": "s0172_yoshi.wav",
+   "member": 172,
+   "name": "yoshi",
+   "cast_id": 314,
+   "snd_id": 316,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 4536
+  },
+  {
+   "file": "s0173_fireLarge.wav",
+   "member": 173,
+   "name": "fireLarge",
+   "cast_id": 325,
+   "snd_id": 334,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 67512
+  },
+  {
+   "file": "s0174_explosion.wav",
+   "member": 174,
+   "name": "explosion",
+   "cast_id": 337,
+   "snd_id": 338,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 106297
+  },
+  {
+   "file": "s0161_swim.wav",
+   "member": 161,
+   "name": "swim",
+   "cast_id": 341,
+   "snd_id": 206,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 54392
+  },
+  {
+   "file": "s0175_yoshi02.wav",
+   "member": 175,
+   "name": "yoshi02",
+   "cast_id": 342,
+   "snd_id": 344,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 23375
+  },
+  {
+   "file": "s0201_bell.wav",
+   "member": 201,
+   "name": "bell",
+   "cast_id": 347,
+   "snd_id": 694,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 56832
+  },
+  {
+   "file": "s0202_bike.wav",
+   "member": 202,
+   "name": "bike",
+   "cast_id": 355,
+   "snd_id": 359,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 92356
+  },
+  {
+   "file": "s0204_car.wav",
+   "member": 204,
+   "name": "car",
+   "cast_id": 365,
+   "snd_id": 374,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 50688
+  },
+  {
+   "file": "s0205_pon_arukeba.wav",
+   "member": 205,
+   "name": "pon arukeba",
+   "cast_id": 372,
+   "snd_id": 672,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 176409
+  },
+  {
+   "file": "s0206_cyouJingle.short.wav",
+   "member": 206,
+   "name": "cyouJingle.short",
+   "cast_id": 472,
+   "snd_id": 568,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 53504
+  },
+  {
+   "file": "s0160_forest.wav",
+   "member": 160,
+   "name": "forest",
+   "cast_id": 642,
+   "snd_id": 196,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 139264
+  },
+  {
+   "file": "s0203_boats.wav",
+   "member": 203,
+   "name": "boats",
+   "cast_id": 695,
+   "snd_id": 364,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 18688
+  },
+  {
+   "file": "s0164_car.wav",
+   "member": 164,
+   "name": "car",
+   "cast_id": 725,
+   "snd_id": 646,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 50688
+  },
+  {
+   "file": "s0207_pon_kurokoge.lop.wav",
+   "member": 207,
+   "name": "pon kurokoge.lop",
+   "cast_id": 737,
+   "snd_id": 416,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 235877
+  }
+ ]
+}

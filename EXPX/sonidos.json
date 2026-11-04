@@ -1,0 +1,27 @@
+{
+ "source": "EXPX.DXR",
+ "sounds": [
+  {
+   "file": "s0076_X-kotoE.wav",
+   "member": 76,
+   "name": "X-kotoE",
+   "cast_id": 210,
+   "snd_id": 211,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 25984
+  },
+  {
+   "file": "s0077_X-kotoJ.wav",
+   "member": 77,
+   "name": "X-kotoJ",
+   "cast_id": 215,
+   "snd_id": 216,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 65791
+  }
+ ]
+}

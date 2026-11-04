@@ -1,0 +1,148 @@
+{
+ "source": "TITLEFER.DXR",
+ "sounds": [
+  {
+   "file": "s0079_GEORGE.wav",
+   "member": 79,
+   "name": "GEORGE",
+   "cast_id": 27,
+   "snd_id": 28,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 31872
+  },
+  {
+   "file": "s0065_Untitled-2.wav",
+   "member": 65,
+   "name": "Untitled-2",
+   "cast_id": 49,
+   "snd_id": 278,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 19072
+  },
+  {
+   "file": "s0066_Untitled-3.wav",
+   "member": 66,
+   "name": "Untitled-3",
+   "cast_id": 53,
+   "snd_id": 272,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 10240
+  },
+  {
+   "file": "s0052_george-1.wav",
+   "member": 52,
+   "name": "george-1",
+   "cast_id": 156,
+   "snd_id": 434,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 25600
+  },
+  {
+   "file": "s0064_Untitled-1.wav",
+   "member": 64,
+   "name": "Untitled-1",
+   "cast_id": 228,
+   "snd_id": 454,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 49408
+  },
+  {
+   "file": "s0050_bgm.wav",
+   "member": 50,
+   "name": "bgm",
+   "cast_id": 260,
+   "snd_id": 144,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 53248
+  },
+  {
+   "file": "s0074_Untitled-6.wav",
+   "member": 74,
+   "name": "Untitled-6",
+   "cast_id": 277,
+   "snd_id": 397,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 86016
+  },
+  {
+   "file": "s0054_george-3.wav",
+   "member": 54,
+   "name": "george-3",
+   "cast_id": 387,
+   "snd_id": 583,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 26176
+  },
+  {
+   "file": "s0051_george-2.wav",
+   "member": 51,
+   "name": "george-2",
+   "cast_id": 432,
+   "snd_id": 430,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 25600
+  },
+  {
+   "file": "s0053_gunya.wav",
+   "member": 53,
+   "name": "gunya",
+   "cast_id": 438,
+   "snd_id": 441,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 53248
+  },
+  {
+   "file": "s0073_Untitled-5.wav",
+   "member": 73,
+   "name": "Untitled-5",
+   "cast_id": 456,
+   "snd_id": 349,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 9984
+  },
+  {
+   "file": "s0062_108.wav",
+   "member": 62,
+   "name": "108",
+   "cast_id": 476,
+   "snd_id": 83,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 27904
+  },
+  {
+   "file": "s0067_Untitled-4.wav",
+   "member": 67,
+   "name": "Untitled-4",
+   "cast_id": 625,
+   "snd_id": 542,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 33280
+  }
+ ]
+}

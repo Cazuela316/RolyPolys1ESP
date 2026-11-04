@@ -1,0 +1,269 @@
+{
+ "source": "S.DXR",
+ "sounds": [
+  {
+   "file": "s0238_294.wav",
+   "member": 238,
+   "name": "294",
+   "cast_id": 223,
+   "snd_id": 671,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 150743
+  },
+  {
+   "file": "s0230_287.wav",
+   "member": 230,
+   "name": "287",
+   "cast_id": 328,
+   "snd_id": 772,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 18428
+  },
+  {
+   "file": "s0232_014.wav",
+   "member": 232,
+   "name": "014",
+   "cast_id": 331,
+   "snd_id": 334,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 187456
+  },
+  {
+   "file": "s0247_218.wav",
+   "member": 247,
+   "name": "218",
+   "cast_id": 429,
+   "snd_id": 449,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 10752
+  },
+  {
+   "file": "s0253_291.wav",
+   "member": 253,
+   "name": "291",
+   "cast_id": 531,
+   "snd_id": 709,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 172032
+  },
+  {
+   "file": "s0224_281.wav",
+   "member": 224,
+   "name": "281",
+   "cast_id": 648,
+   "snd_id": 649,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 176384
+  },
+  {
+   "file": "s0226_280.wav",
+   "member": 226,
+   "name": "280",
+   "cast_id": 650,
+   "snd_id": 651,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 48000
+  },
+  {
+   "file": "s0227_282.wav",
+   "member": 227,
+   "name": "282",
+   "cast_id": 652,
+   "snd_id": 755,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 321984
+  },
+  {
+   "file": "s0229_284.wav",
+   "member": 229,
+   "name": "284",
+   "cast_id": 655,
+   "snd_id": 656,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 37504
+  },
+  {
+   "file": "s0231_287.wav",
+   "member": 231,
+   "name": "287",
+   "cast_id": 658,
+   "snd_id": 659,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 18428
+  },
+  {
+   "file": "s0246_yoshi.wav",
+   "member": 246,
+   "name": "yoshi",
+   "cast_id": 660,
+   "snd_id": 452,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 4536
+  },
+  {
+   "file": "s0233_036.wav",
+   "member": 233,
+   "name": "036",
+   "cast_id": 661,
+   "snd_id": 745,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 34668
+  },
+  {
+   "file": "s0234_016.wav",
+   "member": 234,
+   "name": "016",
+   "cast_id": 662,
+   "snd_id": 663,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 87936
+  },
+  {
+   "file": "s0235_289.wav",
+   "member": 235,
+   "name": "289",
+   "cast_id": 664,
+   "snd_id": 665,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 303818
+  },
+  {
+   "file": "s0236_292.wav",
+   "member": 236,
+   "name": "292",
+   "cast_id": 666,
+   "snd_id": 667,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 24049
+  },
+  {
+   "file": "s0239_281.wav",
+   "member": 239,
+   "name": "281",
+   "cast_id": 672,
+   "snd_id": 673,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 176704
+  },
+  {
+   "file": "s0240_ibiki.wav",
+   "member": 240,
+   "name": "ibiki",
+   "cast_id": 674,
+   "snd_id": 675,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 159488
+  },
+  {
+   "file": "s0241_285.wav",
+   "member": 241,
+   "name": "285",
+   "cast_id": 681,
+   "snd_id": 682,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 177642
+  },
+  {
+   "file": "s0249_221.wav",
+   "member": 249,
+   "name": "221",
+   "cast_id": 703,
+   "snd_id": 704,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 22848
+  },
+  {
+   "file": "s0248_219.wav",
+   "member": 248,
+   "name": "219",
+   "cast_id": 708,
+   "snd_id": 702,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 15680
+  },
+  {
+   "file": "s0237_291.wav",
+   "member": 237,
+   "name": "291",
+   "cast_id": 722,
+   "snd_id": 839,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 172032
+  },
+  {
+   "file": "s0255_292.wav",
+   "member": 255,
+   "name": "292",
+   "cast_id": 760,
+   "snd_id": 723,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 6400
+  },
+  {
+   "file": "s0252_a-cho3.wav",
+   "member": 252,
+   "name": "a-cho3",
+   "cast_id": 771,
+   "snd_id": 716,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 18384
+  },
+  {
+   "file": "s0251_a-cho7.wav",
+   "member": 251,
+   "name": "a-cho7",
+   "cast_id": 828,
+   "snd_id": 525,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 6272
+  }
+ ]
+}

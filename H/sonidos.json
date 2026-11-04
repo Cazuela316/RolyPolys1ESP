@@ -1,0 +1,159 @@
+{
+ "source": "H.DXR",
+ "sounds": [
+  {
+   "file": "s0221_057.wav",
+   "member": 221,
+   "name": "057",
+   "cast_id": 650,
+   "snd_id": 657,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 40512
+  },
+  {
+   "file": "s0222_054.wav",
+   "member": 222,
+   "name": "054",
+   "cast_id": 658,
+   "snd_id": 648,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 40512
+  },
+  {
+   "file": "s0226_059.wav",
+   "member": 226,
+   "name": "059",
+   "cast_id": 668,
+   "snd_id": 672,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 10560
+  },
+  {
+   "file": "s0224_055.wav",
+   "member": 224,
+   "name": "055",
+   "cast_id": 670,
+   "snd_id": 666,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 51456
+  },
+  {
+   "file": "s0225_058.wav",
+   "member": 225,
+   "name": "058",
+   "cast_id": 671,
+   "snd_id": 665,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 6976
+  },
+  {
+   "file": "s0229_banana.wav",
+   "member": 229,
+   "name": "banana",
+   "cast_id": 675,
+   "snd_id": 676,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 3007
+  },
+  {
+   "file": "s0227_060.wav",
+   "member": 227,
+   "name": "060",
+   "cast_id": 677,
+   "snd_id": 678,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 9088
+  },
+  {
+   "file": "s0230_grasses.wav",
+   "member": 230,
+   "name": "grasses",
+   "cast_id": 688,
+   "snd_id": 681,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 13316
+  },
+  {
+   "file": "s0228_056.wav",
+   "member": 228,
+   "name": "056",
+   "cast_id": 698,
+   "snd_id": 689,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 112640
+  },
+  {
+   "file": "s0232_BANATEN_LONLY_HEART.new.wav",
+   "member": 232,
+   "name": "BANATEN LONLY HEART.new",
+   "cast_id": 704,
+   "snd_id": 695,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 469635
+  },
+  {
+   "file": "s0219_banaLonely.wav",
+   "member": 219,
+   "name": "banaLonely",
+   "cast_id": 709,
+   "snd_id": 711,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 423936
+  },
+  {
+   "file": "s0234_BANATEN_STRINGS_AISYU.new.wav",
+   "member": 234,
+   "name": "BANATEN STRINGS AISYU.new",
+   "cast_id": 712,
+   "snd_id": 701,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 343935
+  },
+  {
+   "file": "s0223_052.wav",
+   "member": 223,
+   "name": "052",
+   "cast_id": 713,
+   "snd_id": 710,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 89088
+  },
+  {
+   "file": "s0233_banaString.wav",
+   "member": 233,
+   "name": "banaString",
+   "cast_id": 714,
+   "snd_id": 715,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 314624
+  }
+ ]
+}

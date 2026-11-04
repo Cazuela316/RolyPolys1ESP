@@ -1,0 +1,137 @@
+{
+ "source": "U.DXR",
+ "sounds": [
+  {
+   "file": "s0239_059.wav",
+   "member": 239,
+   "name": "059",
+   "cast_id": 6,
+   "snd_id": 154,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 10560
+  },
+  {
+   "file": "s0176_milk.wav",
+   "member": 176,
+   "name": "milk",
+   "cast_id": 17,
+   "snd_id": 27,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 160283
+  },
+  {
+   "file": "s0240_060.wav",
+   "member": 240,
+   "name": "060",
+   "cast_id": 70,
+   "snd_id": 716,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 9088
+  },
+  {
+   "file": "s0168_T_E_h_168.wav",
+   "member": 168,
+   "name": "\u0192T\u0192E\u0192\u201c\u0192h 168",
+   "cast_id": 143,
+   "snd_id": 383,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 8640
+  },
+  {
+   "file": "s0167_PRWU02A.AIF.wav",
+   "member": 167,
+   "name": "PRWU02A.AIF",
+   "cast_id": 159,
+   "snd_id": 344,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 15806
+  },
+  {
+   "file": "s0169_PRWU04B.AIF.wav",
+   "member": 169,
+   "name": "PRWU04B.AIF",
+   "cast_id": 251,
+   "snd_id": 416,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 3185
+  },
+  {
+   "file": "s0166_PRWU01.AIF.wav",
+   "member": 166,
+   "name": "PRWU01.AIF",
+   "cast_id": 328,
+   "snd_id": 531,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 192432
+  },
+  {
+   "file": "s0171_PRWU01.AIF.wav",
+   "member": 171,
+   "name": "PRWU01.AIF",
+   "cast_id": 335,
+   "snd_id": 337,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 192432
+  },
+  {
+   "file": "s0170_PRWU05A.AIF.wav",
+   "member": 170,
+   "name": "PRWU05A.AIF",
+   "cast_id": 339,
+   "snd_id": 330,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 2943
+  },
+  {
+   "file": "s0172_PRWU02A.AIF.wav",
+   "member": 172,
+   "name": "PRWU02A.AIF",
+   "cast_id": 423,
+   "snd_id": 422,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 15806
+  },
+  {
+   "file": "s0174_052.wav",
+   "member": 174,
+   "name": "052",
+   "cast_id": 428,
+   "snd_id": 427,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 89088
+  },
+  {
+   "file": "s0238_T_E_h_238.wav",
+   "member": 238,
+   "name": "\u0192T\u0192E\u0192\u201c\u0192h 238",
+   "cast_id": 521,
+   "snd_id": 430,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 4704
+  }
+ ]
+}

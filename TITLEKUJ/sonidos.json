@@ -1,0 +1,104 @@
+{
+ "source": "TITLEKUJ.DXR",
+ "sounds": [
+  {
+   "file": "s0060_bgm-1.wav",
+   "member": 60,
+   "name": "bgm-1",
+   "cast_id": 29,
+   "snd_id": 294,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 105984
+  },
+  {
+   "file": "s0079_179.wav",
+   "member": 79,
+   "name": "179",
+   "cast_id": 165,
+   "snd_id": 201,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 37184
+  },
+  {
+   "file": "s0080_180.wav",
+   "member": 80,
+   "name": "180",
+   "cast_id": 192,
+   "snd_id": 198,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 32576
+  },
+  {
+   "file": "s0085_183.wav",
+   "member": 85,
+   "name": "183",
+   "cast_id": 219,
+   "snd_id": 241,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 11840
+  },
+  {
+   "file": "s0084_182.wav",
+   "member": 84,
+   "name": "182",
+   "cast_id": 222,
+   "snd_id": 216,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 30208
+  },
+  {
+   "file": "s0093_AKIKO.wav",
+   "member": 93,
+   "name": "AKIKO",
+   "cast_id": 274,
+   "snd_id": 91,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 50432
+  },
+  {
+   "file": "s0059_bgm-2.wav",
+   "member": 59,
+   "name": "bgm-2",
+   "cast_id": 293,
+   "snd_id": 25,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 105728
+  },
+  {
+   "file": "s0058_T_E_h_100.wav",
+   "member": 58,
+   "name": "\u0192T\u0192E\u0192\u201c\u0192h 100",
+   "cast_id": 512,
+   "snd_id": 41,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 105976
+  },
+  {
+   "file": "s0081_181.wav",
+   "member": 81,
+   "name": "181",
+   "cast_id": 650,
+   "snd_id": 207,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 26368
+  }
+ ]
+}

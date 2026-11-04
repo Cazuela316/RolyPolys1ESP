@@ -1,0 +1,60 @@
+{
+ "source": "Z.DXR",
+ "sounds": [
+  {
+   "file": "s0143_224.wav",
+   "member": 143,
+   "name": "224",
+   "cast_id": 204,
+   "snd_id": 205,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 353013
+  },
+  {
+   "file": "s0144_091.wav",
+   "member": 144,
+   "name": "091",
+   "cast_id": 206,
+   "snd_id": 391,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 36288
+  },
+  {
+   "file": "s0145_093.wav",
+   "member": 145,
+   "name": "093",
+   "cast_id": 390,
+   "snd_id": 248,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 48896
+  },
+  {
+   "file": "s0146_052.wav",
+   "member": 146,
+   "name": "052",
+   "cast_id": 430,
+   "snd_id": 431,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 89088
+  },
+  {
+   "file": "s0147_T_E_h_147.wav",
+   "member": 147,
+   "name": "\u0192T\u0192E\u0192\u201c\u0192h 147",
+   "cast_id": 432,
+   "snd_id": 433,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 51503
+  }
+ ]
+}

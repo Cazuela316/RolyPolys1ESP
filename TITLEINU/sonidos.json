@@ -1,0 +1,148 @@
+{
+ "source": "TITLEINU.DXR",
+ "sounds": [
+  {
+   "file": "s0068_Untitled-2.wav",
+   "member": 68,
+   "name": "Untitled-2",
+   "cast_id": 22,
+   "snd_id": 23,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 106297
+  },
+  {
+   "file": "s0077_explosion.wav",
+   "member": 77,
+   "name": "explosion",
+   "cast_id": 24,
+   "snd_id": 25,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 106297
+  },
+  {
+   "file": "s0054_bgm.wav",
+   "member": 54,
+   "name": "bgm",
+   "cast_id": 36,
+   "snd_id": 38,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 151552
+  },
+  {
+   "file": "s0078_PON.wav",
+   "member": 78,
+   "name": "PON",
+   "cast_id": 42,
+   "snd_id": 44,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 8384
+  },
+  {
+   "file": "s0067_Untitled-1.wav",
+   "member": 67,
+   "name": "Untitled-1",
+   "cast_id": 51,
+   "snd_id": 417,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 33152
+  },
+  {
+   "file": "s0071_Untitled-5.wav",
+   "member": 71,
+   "name": "Untitled-5",
+   "cast_id": 55,
+   "snd_id": 431,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 4896
+  },
+  {
+   "file": "s0069_Untitled-3.wav",
+   "member": 69,
+   "name": "Untitled-3",
+   "cast_id": 67,
+   "snd_id": 52,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 32768
+  },
+  {
+   "file": "s0070_Untitled-4.wav",
+   "member": 70,
+   "name": "Untitled-4",
+   "cast_id": 68,
+   "snd_id": 422,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 8096
+  },
+  {
+   "file": "s0057_pon-3.wav",
+   "member": 57,
+   "name": "pon-3",
+   "cast_id": 412,
+   "snd_id": 413,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 74240
+  },
+  {
+   "file": "s0058_pon-4.wav",
+   "member": 58,
+   "name": "pon-4",
+   "cast_id": 414,
+   "snd_id": 415,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 17920
+  },
+  {
+   "file": "s0056_pon-2.wav",
+   "member": 56,
+   "name": "pon-2",
+   "cast_id": 419,
+   "snd_id": 411,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 75264
+  },
+  {
+   "file": "s0055_pon-1.wav",
+   "member": 55,
+   "name": "pon-1",
+   "cast_id": 421,
+   "snd_id": 420,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 19456
+  },
+  {
+   "file": "s0059_pon-5.wav",
+   "member": 59,
+   "name": "pon-5",
+   "cast_id": 427,
+   "snd_id": 428,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 141312
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "source": "TITLEJ.DXR",
+ "sounds": [
+  {
+   "file": "s0017_PRL23.AIF_copy.wav",
+   "member": 17,
+   "name": "PRL23.AIF copy",
+   "cast_id": 132,
+   "snd_id": 133,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 88200
+  }
+ ]
+}

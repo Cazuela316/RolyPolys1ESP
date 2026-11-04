@@ -1,0 +1,16 @@
+{
+ "source": "TITLEI.DXR",
+ "sounds": [
+  {
+   "file": "s0011_PRL17.AIF_copy.wav",
+   "member": 11,
+   "name": "PRL17.AIF copy",
+   "cast_id": 18,
+   "snd_id": 24,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 88200
+  }
+ ]
+}

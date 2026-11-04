@@ -1,0 +1,38 @@
+{
+ "source": "EXPC.DXR",
+ "sounds": [
+  {
+   "file": "s0018_s-kotoJ.wav",
+   "member": 18,
+   "name": "s-kotoJ",
+   "cast_id": 23,
+   "snd_id": 84,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 32896
+  },
+  {
+   "file": "s0013_S1.aif.wav",
+   "member": 13,
+   "name": "S1.aif",
+   "cast_id": 46,
+   "snd_id": 49,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 211712
+  },
+  {
+   "file": "s0017_s-kotoE.wav",
+   "member": 17,
+   "name": "s-kotoE",
+   "cast_id": 79,
+   "snd_id": 75,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 62464
+  }
+ ]
+}

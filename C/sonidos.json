@@ -1,0 +1,126 @@
+{
+ "source": "C.DXR",
+ "sounds": [
+  {
+   "file": "s0090_228.wav",
+   "member": 90,
+   "name": "228",
+   "cast_id": 173,
+   "snd_id": 304,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 140800
+  },
+  {
+   "file": "s0089_225.wav",
+   "member": 89,
+   "name": "225",
+   "cast_id": 193,
+   "snd_id": 229,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 81920
+  },
+  {
+   "file": "s0093_233.wav",
+   "member": 93,
+   "name": "233",
+   "cast_id": 219,
+   "snd_id": 335,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 5123
+  },
+  {
+   "file": "s0099_231.wav",
+   "member": 99,
+   "name": "231",
+   "cast_id": 268,
+   "snd_id": 276,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 495136
+  },
+  {
+   "file": "s0097_236.wav",
+   "member": 97,
+   "name": "236",
+   "cast_id": 292,
+   "snd_id": 377,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 56640
+  },
+  {
+   "file": "s0092_232.wav",
+   "member": 92,
+   "name": "232",
+   "cast_id": 301,
+   "snd_id": 376,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 60224
+  },
+  {
+   "file": "s0101_END.wav",
+   "member": 101,
+   "name": "END",
+   "cast_id": 308,
+   "snd_id": 366,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 140800
+  },
+  {
+   "file": "s0095_235.wav",
+   "member": 95,
+   "name": "235",
+   "cast_id": 311,
+   "snd_id": 238,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 45824
+  },
+  {
+   "file": "s0094_234.wav",
+   "member": 94,
+   "name": "234",
+   "cast_id": 319,
+   "snd_id": 325,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 86400
+  },
+  {
+   "file": "s0091_T_E_h_91.wav",
+   "member": 91,
+   "name": "\u0192T\u0192E\u0192\u201c\u0192h 91",
+   "cast_id": 340,
+   "snd_id": 117,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 86784
+  },
+  {
+   "file": "s0096_226.wav",
+   "member": 96,
+   "name": "226",
+   "cast_id": 341,
+   "snd_id": 378,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 177920
+  }
+ ]
+}

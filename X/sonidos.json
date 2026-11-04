@@ -1,0 +1,82 @@
+{
+ "source": "X.DXR",
+ "sounds": [
+  {
+   "file": "s0205_094.wav",
+   "member": 205,
+   "name": "094",
+   "cast_id": 272,
+   "snd_id": 320,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 80512
+  },
+  {
+   "file": "s0206_232.wav",
+   "member": 206,
+   "name": "232",
+   "cast_id": 350,
+   "snd_id": 351,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 176640
+  },
+  {
+   "file": "s0207_091.wav",
+   "member": 207,
+   "name": "091",
+   "cast_id": 473,
+   "snd_id": 474,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 36288
+  },
+  {
+   "file": "s0208_094.wav",
+   "member": 208,
+   "name": "094",
+   "cast_id": 475,
+   "snd_id": 476,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 80512
+  },
+  {
+   "file": "s0209_a-cho3.wav",
+   "member": 209,
+   "name": "a-cho3",
+   "cast_id": 478,
+   "snd_id": 653,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 18384
+  },
+  {
+   "file": "s0210_092.wav",
+   "member": 210,
+   "name": "092",
+   "cast_id": 654,
+   "snd_id": 655,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 21376
+  },
+  {
+   "file": "s0211_093.wav",
+   "member": 211,
+   "name": "093",
+   "cast_id": 670,
+   "snd_id": 673,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 48896
+  }
+ ]
+}

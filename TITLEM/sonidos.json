@@ -1,0 +1,27 @@
+{
+ "source": "TITLEM.DXR",
+ "sounds": [
+  {
+   "file": "s0031_hammer.wav",
+   "member": 31,
+   "name": "hammer",
+   "cast_id": 74,
+   "snd_id": 75,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 4691
+  },
+  {
+   "file": "s0030_PRL35.AIF_copy.wav",
+   "member": 30,
+   "name": "PRL35.AIF copy",
+   "cast_id": 108,
+   "snd_id": 139,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 88200
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "source": "MISO_KO.DXR",
+ "sounds": [
+  {
+   "file": "s0181_miso.wav",
+   "member": 181,
+   "name": "miso",
+   "cast_id": 376,
+   "snd_id": 454,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 164736
+  }
+ ]
+}

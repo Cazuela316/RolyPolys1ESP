@@ -1,0 +1,38 @@
+{
+ "source": "ENDING.DXR",
+ "sounds": [
+  {
+   "file": "s0051_clickSound.wav",
+   "member": 51,
+   "name": "clickSound",
+   "cast_id": 115,
+   "snd_id": 116,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 23680
+  },
+  {
+   "file": "s0063_BYE_BYE.wav",
+   "member": 63,
+   "name": "BYE BYE",
+   "cast_id": 158,
+   "snd_id": 214,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 97179
+  },
+  {
+   "file": "s0050_BYE_BYE.wav",
+   "member": 50,
+   "name": "BYE BYE",
+   "cast_id": 160,
+   "snd_id": 212,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 97179
+  }
+ ]
+}

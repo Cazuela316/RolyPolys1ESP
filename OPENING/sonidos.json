@@ -1,0 +1,49 @@
+{
+ "source": "OPENING.DXR",
+ "sounds": [
+  {
+   "file": "s0017_ShinkoLogoNew.wav",
+   "member": 17,
+   "name": "ShinkoLogoNew",
+   "cast_id": 14,
+   "snd_id": 20,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 235008
+  },
+  {
+   "file": "s0014_Null_Sound.wav",
+   "member": 14,
+   "name": "Null Sound",
+   "cast_id": 27,
+   "snd_id": 28,
+   "rate": 22254.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 22257
+  },
+  {
+   "file": "s0021_OSD_LOGO_MONO.wav",
+   "member": 21,
+   "name": "OSD LOGO MONO",
+   "cast_id": 30,
+   "snd_id": 34,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 163392
+  },
+  {
+   "file": "s0024_sinko_logo.wav",
+   "member": 24,
+   "name": "sinko logo",
+   "cast_id": 50,
+   "snd_id": 51,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 233293
+  }
+ ]
+}

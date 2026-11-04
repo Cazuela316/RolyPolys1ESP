@@ -1,0 +1,38 @@
+{
+ "source": "TITLEX.DXR",
+ "sounds": [
+  {
+   "file": "s0038_PRL47.AIF_copy.wav",
+   "member": 38,
+   "name": "PRL47.AIF copy",
+   "cast_id": 83,
+   "snd_id": 85,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 88200
+  },
+  {
+   "file": "s0043_Bell.wav",
+   "member": 43,
+   "name": "Bell",
+   "cast_id": 97,
+   "snd_id": 103,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 7104
+  },
+  {
+   "file": "s0044_u.wav",
+   "member": 44,
+   "name": "\u0192u\ufffd[",
+   "cast_id": 109,
+   "snd_id": 107,
+   "rate": 22254.55,
+   "channels": 1,
+   "bits": 8,
+   "frames": 5553
+  }
+ ]
+}

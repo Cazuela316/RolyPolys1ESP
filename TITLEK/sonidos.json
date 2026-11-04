@@ -1,0 +1,16 @@
+{
+ "source": "TITLEK.DXR",
+ "sounds": [
+  {
+   "file": "s0027_PRL26.AIF_copy.wav",
+   "member": 27,
+   "name": "PRL26.AIF copy",
+   "cast_id": 7,
+   "snd_id": 22,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 88200
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "source": "TITLEKA.DXR",
+ "sounds": [
+  {
+   "file": "s0071_kani1.wav",
+   "member": 71,
+   "name": "kani1",
+   "cast_id": 25,
+   "snd_id": 561,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 197888
+  },
+  {
+   "file": "s0074_kani3.wav",
+   "member": 74,
+   "name": "kani3",
+   "cast_id": 37,
+   "snd_id": 41,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 99584
+  },
+  {
+   "file": "s0073_kani2.wav",
+   "member": 73,
+   "name": "kani2",
+   "cast_id": 38,
+   "snd_id": 335,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 53248
+  },
+  {
+   "file": "s0092_MR_OKHOTK.wav",
+   "member": 92,
+   "name": "MR OKHOTK",
+   "cast_id": 58,
+   "snd_id": 60,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 43776
+  },
+  {
+   "file": "s0079_Untitled-4.wav",
+   "member": 79,
+   "name": "Untitled-4",
+   "cast_id": 125,
+   "snd_id": 65,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 21632
+  },
+  {
+   "file": "s0072_bgm.wav",
+   "member": 72,
+   "name": "bgm",
+   "cast_id": 334,
+   "snd_id": 34,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 200192
+  },
+  {
+   "file": "s0076_Untitled-1.wav",
+   "member": 76,
+   "name": "Untitled-1",
+   "cast_id": 348,
+   "snd_id": 47,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 28160
+  },
+  {
+   "file": "s0078_Untitled-3.wav",
+   "member": 78,
+   "name": "Untitled-3",
+   "cast_id": 349,
+   "snd_id": 617,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 33152
+  },
+  {
+   "file": "s0077_Untitled-2.wav",
+   "member": 77,
+   "name": "Untitled-2",
+   "cast_id": 615,
+   "snd_id": 618,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 16704
+  },
+  {
+   "file": "s0080_Untitled-5.wav",
+   "member": 80,
+   "name": "Untitled-5",
+   "cast_id": 619,
+   "snd_id": 341,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 68352
+  }
+ ]
+}

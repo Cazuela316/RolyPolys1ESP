@@ -1,0 +1,16 @@
+{
+ "source": "TITLEZ.DXR",
+ "sounds": [
+  {
+   "file": "s0039_PRL49.AIF_copy.wav",
+   "member": 39,
+   "name": "PRL49.AIF copy",
+   "cast_id": 114,
+   "snd_id": 115,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 58880
+  }
+ ]
+}

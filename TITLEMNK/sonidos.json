@@ -1,0 +1,148 @@
+{
+ "source": "TITLEMNK.DXR",
+ "sounds": [
+  {
+   "file": "s0067_click.wav",
+   "member": 67,
+   "name": "click",
+   "cast_id": 17,
+   "snd_id": 16,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 40960
+  },
+  {
+   "file": "s0095_rolly_pollys.wav",
+   "member": 95,
+   "name": "rolly pollys",
+   "cast_id": 22,
+   "snd_id": 18,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 25216
+  },
+  {
+   "file": "s0066_BANAShort.aif.wav",
+   "member": 66,
+   "name": "BANAShort.aif",
+   "cast_id": 23,
+   "snd_id": 168,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 1507392
+  },
+  {
+   "file": "s0092_computer.wav",
+   "member": 92,
+   "name": "computer",
+   "cast_id": 24,
+   "snd_id": 508,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 17728
+  },
+  {
+   "file": "s0069_bgm-2.wav",
+   "member": 69,
+   "name": "bgm-2",
+   "cast_id": 59,
+   "snd_id": 563,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 81408
+  },
+  {
+   "file": "s0106_BANATEN.wav",
+   "member": 106,
+   "name": "BANATEN",
+   "cast_id": 64,
+   "snd_id": 65,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 25408
+  },
+  {
+   "file": "s0096_ukikui.wav",
+   "member": 96,
+   "name": "ukikui",
+   "cast_id": 75,
+   "snd_id": 470,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 21120
+  },
+  {
+   "file": "s0071_click2.wav",
+   "member": 71,
+   "name": "click2",
+   "cast_id": 148,
+   "snd_id": 303,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 40448
+  },
+  {
+   "file": "s0091_banana.wav",
+   "member": 91,
+   "name": "banana",
+   "cast_id": 166,
+   "snd_id": 255,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 14144
+  },
+  {
+   "file": "s0068_bgm-1.wav",
+   "member": 68,
+   "name": "bgm-1",
+   "cast_id": 297,
+   "snd_id": 8,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 163072
+  },
+  {
+   "file": "s0093_george.wav",
+   "member": 93,
+   "name": "george",
+   "cast_id": 433,
+   "snd_id": 274,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 15168
+  },
+  {
+   "file": "s0094_kikikiki.wav",
+   "member": 94,
+   "name": "kikikiki",
+   "cast_id": 529,
+   "snd_id": 521,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 15232
+  },
+  {
+   "file": "s0070_T_E_h_88.wav",
+   "member": 70,
+   "name": "\u0192T\u0192E\u0192\u201c\u0192h 88",
+   "cast_id": 532,
+   "snd_id": 566,
+   "rate": 22050.0,
+   "channels": 1,
+   "bits": 8,
+   "frames": 81920
+  }
+ ]
+}
